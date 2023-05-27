@@ -1,4 +1,4 @@
-### Hi there, I'm Silvia 👋
+### It's me, hi! I'm Silvia 👋
 
 - 🔭 Graduating soon in Electrical Engineering from UPC, and excited to start my MSc in Machine Learning at KTH!
 - 🌱 Currently diving deep into Computer Vision and NLP.
