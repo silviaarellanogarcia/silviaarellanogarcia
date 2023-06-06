@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/silviaarellanogarcia/silviaarellanogarcia/assets/63227641/ca0be1fb-6e78-44f7-8b67-a7e3ddc8592a" height=375px>
+
 ### It's me, hi! I'm Silvia 👋
 
 - 🔭 Graduating soon in Electrical Engineering from UPC, and excited to start my MSc in Machine Learning at KTH!
