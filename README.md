@@ -2,9 +2,9 @@
 
 ### It's me, hi! I'm Silvia 👋
 
-- 🔭 Recent graduate in Electrical Engineering at UPC, currently studying a MSc in Machine Learning at KTH!
+- 🔭 Studying a MSc in Machine Learning at KTH, and recent graduate in Electrical Engineering at UPC!
 - 🌱 Currently learning more about Computer Graphics and Computer Vision.
-- 💬 Ask me about hackathons, crochet, Eurovision or music in general!
+- 💬 Ask me about hackathons 👩🏽‍💻, crochet 🧶, or music! 🎵
 - 😄 Pronouns: she/her
 - 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/silvia-arellano-garcia)
 
